@@ -5,7 +5,7 @@ To create a new React.js application and include Tailwind CSS, Framer Motion, fo
 1. **Clone a github repository**
 
 ```js
-   git clone
+   git clone https://github.com/prasanjitsarker3/Okobiz.git
 ```
 
 2. **Navigate to your project directory**
@@ -31,4 +31,5 @@ npm run dev
 # Live Link
 
 [Live Application] https://ethical1.vercel.app
+
 # Okobiz
